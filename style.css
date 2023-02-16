@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+}
+
+p{
+    color:chartreuse;
+    
+    font-style: oblique;
+    font-family: cursive;
+}
